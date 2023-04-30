@@ -10,7 +10,7 @@ Requires Python 3+. For evaluation, please download the data from the links belo
 
 # Quantitative Results
 | Dataset | FM | p-FM | PSNR | DRD |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | DIBCO 2009  | 94.19 | 96.52 | 20.65 | 2.58 |
 | DIBCO 2010  | 95.29 | 96.67 | 22.06 | 1.36 |
 | DIBCO 2011  | 95.23 | 96.93 | 21.53 | 1.44 |
