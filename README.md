@@ -4,6 +4,7 @@ This repository contains the datasets and code for the paper [ColDBin: Cold Diff
 Requires Python 3+. For evaluation, please download the data from the links below.
 
 ## Prepare dibco datasets
+Download the datasets from the [link](https://drive.google.com/file/d/16pIO4c-mA2kHc1I3uqMs7VwD4Jb4F1Vc/view?usp=sharing):
 Use the example dataset preparation script provided for DIBCO 2013 dataset:
 ```
 ./scripts/prepare_dataset.sh
