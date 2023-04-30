@@ -2,6 +2,24 @@
 This repository contains the datasets and code for the paper [ColDBin: Cold Diffusion for Document Image Binarization](/to/be/added) by Saifullah Saifullah, Stefan Agne, Andreas Dengel, and Sheraz Ahmed.
 
 Requires Python 3+. For evaluation, please download the data from the links below.
+## Approach:
+<img align="center" src="assets/approach.png">
+
+## Qualitative Results:
+<img align="center" src="assets/qualitative.png">
+
+# Quantitative Results
+| Dataset | FM | p-FM | PSNR | DRD |
+| :---: | :---: | :---: |
+| DIBCO 2009  | 94.19 | 96.52 | 20.65 | 2.58 |
+| DIBCO 2010  | 95.29 | 96.67 | 22.06 | 1.36 |
+| DIBCO 2011  | 95.23 | 96.93 | 21.53 | 1.44 |
+| DIBCO 2012  | 96.37 | 97.41 | 23.40 | 1.28 |
+| DIBCO 2013  | 96.62 | 97.15 | 23.98 | 1.20 |
+| DIBCO 2014  | 97.89 | 98.10 | 24.38 | 0.66 |
+| DIBCO 2016  | 89.50 | 93.73 | 18.71 | 3.84 |
+| DIBCO 2017  | 93.04 | 95.12 | 19.32 | 2.29 |
+| DIBCO 2018  | 89.71 | 93.00 | 19.53 | 3.82 |
 
 ## Prepare dibco datasets
 Download the datasets from the [link](https://drive.google.com/file/d/16pIO4c-mA2kHc1I3uqMs7VwD4Jb4F1Vc/view?usp=sharing):
